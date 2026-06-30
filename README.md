@@ -14,4 +14,25 @@ BleedMaster is a PDF production engine focused on extended methods for bleed, cr
 
 **Email:** datensicherung.mtb@gmail.com 
 
+---
 
+PDF in. 
+PDF out.
+
+Powerful in RIP and CTP.
+
+No theoretical creep.<br>
+No broken bleeds<br>
+No rounding errors.<br>
+Zero dependencies.<br>
+No maintenance cycles.
+
+Real-time production intelligence.<br>
+What you see is what you get.
+
+BleedMaster — <br>
+The prepress engine.
+
+Welcome to the next generation.
+
+---
