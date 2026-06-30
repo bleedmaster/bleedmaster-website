@@ -10,5 +10,6 @@
 
 ---
 
-<img width="1536" height="1024" alt="ChatGPT Image Jun 30, 2026, 11_34_37 AM" src="https://github.com/user-attachments/assets/1d772b83-77a1-4c59-b4ff-b6ef92178511" />
+![Uploading Technical drawing (edited).png…]()
+
 
