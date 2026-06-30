@@ -36,3 +36,17 @@ The prepress engine.
 Welcome to the next generation.
 
 ---
+
+# A Long-Standing Problem in Graphic Arts
+
+Since the beginning of modern printing and graphic arts, bleed generation has been an essential part of print production. Over the decades, numerous manual techniques, automated workflows and software solutions have been developed to create bleed around page content.
+
+While these methods can extend image data beyond the trim edge, they do not produce a visually seamless continuation in the corner areas. The bleed strips may appear acceptable individually, yet the corners reveal visible discontinuities where the strips meet. This limitation has remained part of print production for decades.
+
+BleedMaster addresses this long-standing challenge by producing bleed strips that connect visually without interruption and corner areas that join those strips seamlessly. The result remains consistent when using scaling, stretching or mirroring, while maintaining visual continuity beyond the trim edge.
+
+To the best of our knowledge, this is the first publicly documented solution that achieves seamless visual continuity between both bleed strips and corner areas without revealing the underlying implementation.
+
+BleedMaster represents a new approach to a problem that has existed since the beginning of the graphic arts industry.
+
+---
