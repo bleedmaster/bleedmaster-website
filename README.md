@@ -47,6 +47,6 @@ BleedMaster addresses this long-standing challenge by producing bleed strips tha
 
 To the best of our knowledge, this is the first publicly documented solution that achieves seamless visual continuity between both bleed strips and corner areas without revealing the underlying implementation.
 
-BleedMaster represents a new approach to a problem that has existed since the beginning of the graphic arts industry.
+**BleedMaster represents a new approach to a problem that has existed since the beginning of the graphic arts industry.**
 
 ---
