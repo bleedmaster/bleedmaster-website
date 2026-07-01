@@ -55,6 +55,6 @@ To the best of our knowledge, this is the first publicly documented solution tha
 
 For complete technical documentation, please visit:
 
-https://bleedmaster.com/technical-notes/
+**[BleedMaster Technical Notes](https://bleedmaster.com/technical-notes/)**
 
 ---
