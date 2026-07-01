@@ -12,7 +12,7 @@ BleedMaster is a PDF production engine focused on extended methods for bleed, cr
 **Status:** Public  
 **Version:** 1.0
 
-**Email:** datensicherung.mtb@gmail.com 
+**Email:** [datensicherung.mtb@gmail.com](mailto:datensicherung.mtb@gmail.com)
 
 ---
 
