@@ -4,6 +4,6 @@ This section contains the publicly released technical documentation of the Bleed
 
 ## Available Publications
 
-- **TN-001** – Geometric Construction of Mirrored Bleed and Creep for PDF Production
+- [TN-001 – Geometric Construction of Mirrored Bleed and Creep for PDF Production](TN-001-Geometric-Construction-of-Mirrored-Bleed-and-Creep-for-PDF-Production.md)
 
 More Technical Notes will be added over time.
