@@ -50,3 +50,11 @@ To the best of our knowledge, this is the first publicly documented solution tha
 **BleedMaster represents a new approach to a problem that has existed since the beginning of the graphic arts industry.**
 
 ---
+
+## Technical Notes
+
+For complete technical documentation, please visit:
+
+https://bleedmaster.com/technical-notes/
+
+---
